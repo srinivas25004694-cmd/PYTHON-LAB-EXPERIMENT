@@ -28,11 +28,11 @@ Algorithm
 
 
 
-## Output
+## source code
 
 ![Output 1](./Screenshot%202026-08-12%20114223.png)
 
 ![Output 2](./Screenshot%202026-08-12%20121346.png)
-
+## Output
 ![Output 3](./Screenshot%202026-08-12%20121442.png)
 
